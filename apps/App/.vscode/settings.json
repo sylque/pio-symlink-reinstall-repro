@@ -1,0 +1,4 @@
+{
+  "platformio-ide.autoRebuildAutocompleteIndex": true,
+  "platformio-ide.intelliSenseEngine": "clangd"
+}

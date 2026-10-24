@@ -1,0 +1,7 @@
+.pio/
+.cache/
+compile_commands.json
+apps/App/.vscode/*
+!apps/App/.vscode/settings.json
+apps/App/.clangd
+apps/App/.gitignore

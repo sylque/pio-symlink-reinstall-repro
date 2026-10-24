@@ -1,0 +1,7 @@
+{
+  "build": {
+    "srcDir": "."
+  },
+  "dependencies": {
+  }
+}

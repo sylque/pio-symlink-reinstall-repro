@@ -1,0 +1,9 @@
+{
+  "build": {
+    "srcDir": "."
+  },
+  "dependencies": {
+    "LibB": "symlink://../../libs/LibB",
+    "Io": "symlink://../../libs/Io"
+  }
+}
